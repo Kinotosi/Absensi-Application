@@ -55,7 +55,7 @@ pip3 install opencv-python
 pip install qrcode
 ```
 
-***Sqlite3****
+***Sqlite3***
 ```
 sudo apt-get install sqlite3
 ```
