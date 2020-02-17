@@ -52,7 +52,7 @@ pip3 install opencv-python
 
 ***Pip QrCode***
 ```
-pip install qrcode
+pip3 install qrcode
 ```
 
 ***Sqlite3***
